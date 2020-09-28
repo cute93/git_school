@@ -1,0 +1,1 @@
+print('this is c.py i do my git-study')
